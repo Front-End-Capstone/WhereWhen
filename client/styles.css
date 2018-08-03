@@ -2,6 +2,7 @@
   padding-top: 4%;
   padding-bottom: 4%;
   max-width: 480px;
+  position: relative;
 }
 
 .hidden {
